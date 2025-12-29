@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/123238178/520485835-cc9c6f4f-46dd-4ebb-bf30-b2fa3ee9d2ca.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYzOTE3NTUsIm5iZiI6MTc2NjM5MTQ1NSwicGF0aCI6Ii8xMjMyMzgxNzgvNTIwNDg1ODM1LWNjOWM2ZjRmLTQ2ZGQtNGViYi1iZjMwLWIyZmEzZWU5ZDJjYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyMlQwODE3MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTJjN2VmNTlmM2IyYzQ2YWFkZjQ2NzAwOTNiNDA4M2RiZGQ0NGE1MTBlYTQ3YzI5NjNlODViMDg3YjQ0ZjYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jLJxcrZoGE_TnOol5HLWbMURG8qjxeM1NQt8cO0LhEM" alt="Dark Cyber Banner" width="100%"/>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/055/692/964/small/green-data-falling-matrix-wallpaper-background-banner-template-in-binary-numbers-with-geometric-cover-lines-vector.jpg" alt="Dark Cyber Banner" width="100%"/>
 </p>
 
 # 👨‍💻 Rizky Evory
