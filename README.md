@@ -1,97 +1,82 @@
-
 <p align="center">
-  <img src="https://breached.company/content/images/size/w1200/2025/12/ChatGPT-Image-Dec-19--2025--01_07_11-PM.png" alt="Dark Cyber Matrix Banner" />
-  <img src="https://builtin.com/sites/www.builtin.com/files/2025-11/cloud-security-best-practices.png" alt="Cyber Security Header" />
+  <img src="https://www.shutterstock.com/image-illustration/matrix-code-digital-rain-background-260nw-2562075329.jpg" alt="Matrix Digital Rain Banner" width="100%"/>
+  <img src="https://t4.ftcdn.net/jpg/18/35/44/31/360_F_1835443133_fhKz5ihzHyAYiXiPtR87g9NFvl2wEogk.jpg" alt="Green Matrix Code Rain" width="100%"/>
+  <img src="https://www.shutterstock.com/image-illustration/green-matrix-style-digital-rain-260nw-2672850005.jpg" alt="Matrix Style Digital Rain" width="100%"/>
 </p>
 
-# 👨‍💻 Rizky Evory – Elite Cyber Security & MQL5 Developer
+# <img src="https://img.shields.io/badge/Rizky%20Evory-000000?style=for-the-badge&logo=github&logoColor=00FF00"/> 
 
-**Advanced Penetration Testing Tools • Webshell Bypass Expert • Gold Scalping EA Specialist**
+**Elite Cyber Security Researcher • Advanced Penetration Tools Developer • MQL5 Gold Trading EA Master**
 
-Membangun script cyber security high-level (WAF bypass, shell uploaders, backdoor detection, exploits) dan Expert Advisors ultra-profitable untuk MetaTrader 5 – spesialisasi SMC/ICT, Gold XAUUSD Scalping, Swing/Breakout, dan matrix strategies.
+Creator of cutting-edge webshell bypass, exploit scripts, backdoor tools & ultra-profitable MetaTrader 5 Expert Advisors – specialized in Gold Scalping, SMC/ICT, Matrix Strategies.
 
-> *Exploit the vulnerability. Capitalize the edge. Dominate the code.* 🔴📈🛡️
+> *"The matrix has you... but I control the code."* 🟢🔒📈
 
-### 🛠️ Expertise & Tech Stack
+### 🧑‍💻 Skills & Mastery Level
 
-| Domain                  | Skills & Tools                                          | Level      |
-|-------------------------|---------------------------------------------------------|------------|
-| Cyber Security          | Python/PHP Exploits, WAF Bypass, Backdoor Finder, Laravel/WordPress Vulns, Kali/Metasploit | Expert    |
-| Algorithmic Trading     | MQL5 EA/Indicators, Strategy Tester, Gold Scalping, SMC/ICT Detection                  | Pro       |
-| Languages               | Python, PHP, MQL5, JavaScript, Bash                     | Advanced  |
-| Platforms               | Git, Burp Suite, Wireshark, MT5                         | Master    |
+![Python](https://img.shields.io/badge/Python-Expert-00FF41?style=flat&logo=python&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=flat&logo=php&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-Pro-00A368?style=flat&logo=metatrader&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/PenTesting-Elite-FF0000?style=flat&logo=hackthebox&logoColor=white)
+![Exploits](https://img.shields.io/badge/Exploits-Advanced-00FF00?style=flat&logo=linux&logoColor=black)
 
-![Python Expert](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![PHP Expert](https://img.shields.io/badge/PHP-Expert-777BB4?logo=php&logoColor=white)
-![MQL5 Pro](https://img.shields.io/badge/MQL5-Pro-00A368?logo=metatrader)
-![PenTesting Expert](https://img.shields.io/badge/PenTesting-Expert-FF0000?logo=hackthebox)
-
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies (Dracula Theme)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RizkyEvory&theme=dracula&no-frame=true&row=1&column=8&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RizkyEvory&theme=dracula&no-frame=true&margin-w=15&margin-h=15&row=1&column=8" />
 </p>
 
-### 📊 GitHub Stats & Activity
+### 📊 Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkyEvory&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkyEvory&theme=dracula&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkyEvory&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkyEvory&theme=dracula&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyEvory&layout=compact&theme=dracula&hide_border=true&langs_count=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyEvory&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-### 🔥 Featured Projects
+### 🔥 Signature Projects
 
 #### 🚀 Quantum Swing Matrix Pro Ultimate MT5
-Ultimate matrix swing trading EA untuk multi-pair dengan performance tinggi.
+Ultimate multi-pair swing EA with advanced matrix algorithm.
 <p align="center">
-  <img src="https://eafxstore.com/wp-content/uploads/Prop-Firm-Gold-EA-MT5-Backtests.webp" alt="Quantum Backtest" />
-  <img src="https://ecomforex.com/wp-content/uploads/2025/07/GOLD-Forex-Hammer-XAUUSD-MT5-Backtest.jpg" alt="Swing Profit Curve" />
+  <img src="https://www.earnforex.com/img/articles/mt5-backtesting/MetaTrader5-Backtesting-14.png" alt="MT5 Backtest Curve" />
+  <img src="https://c.mql5.com/3/482/b1.jpg" alt="Profit Curve Gold" />
 </p>
-🔗 [Repo](https://github.com/RizkyEvory/Quantum-Swing-Matrix-Pro-Ultimate-MT5)
+🔗 [View Repo](https://github.com/RizkyEvory/Quantum-Swing-Matrix-Pro-Ultimate-MT5)
 
 #### 💰 Gold Matrix Pro EA MT5
-High-performance gold scalper XAUUSD dengan profit curve stabil & drawdown minimal.
+Precision gold scalper with consistent equity growth.
 <p align="center">
-  <img src="https://eafxstore.com/wp-content/uploads/Golden-Algo-EA-MT5-Backtests-Results.webp" alt="Gold Matrix Backtest" />
-  <img src="https://eafxstore.com/wp-content/uploads/Gold-SniperX-EA-Backtest-Reuslts.webp" alt="Gold Scalper Curve" />
+  <img src="https://i.redd.it/th7p38rsfu8a1.jpg" alt="Gold EA Backtest" />
 </p>
-🔗 [Repo](https://github.com/RizkyEvory/Gold-Matrix-Pro)
+🔗 [View Repo](https://github.com/RizkyEvory/Gold-Matrix-Pro)
 
 #### 🏅 SMC-ICT Expert Advisor MT5
-Advanced detection Smart Money Concepts & Institutional Order Flow.
+Institutional order flow + Smart Money Concepts detection.
 <p align="center">
-  <img src="https://mql5.software/uploads/img_68e4a45f47c639.96301027.png" alt="SMC ICT Backtest" />
-  <img src="https://mql5.software/uploads/img_68ea064fd13385.93213214.png" alt="Order Flow Demo" />
+  <img src="https://www.earnforex.com/img/articles/mt5-backtesting/visual-testing.gif" alt="Visual Backtesting" />
 </p>
-🔗 [Repo](https://github.com/RizkyEvory/SMC-ICT-Expert-Advisor)
+🔗 [View Repo](https://github.com/RizkyEvory/SMC-ICT-Expert-Advisor)
 
-#### ⚡ Breakout EA MT5
-Powerful breakout strategy dengan dynamic lot & risk management.
+#### 🔴 Advanced Cyber Security Tools
+WAF Bypass, Shell Uploaders, Backdoor Detection & Exploits Collection.
 <p align="center">
-  <img src="https://ecomforex.com/wp-content/uploads/2025/12/Gold-Trend-Accelerator-Combo-EA-MT5-Backtest.jpg" alt="Breakout Backtest" />
+  <img src="https://www.offsec.com/app/uploads/2020/03/kali-customization-1024x536.png" alt="Kali Terminal Dark" />
+  <img src="https://drasite.com/content/blog/posts/media/kali-2020.1/kali-gnome-dark.png" alt="Kali Dark Theme" />
 </p>
-🔗 [Repo](https://github.com/RizkyEvory/Breakout-EA-MT5)
+🔗 Bypass-Webshell • Backdoor-Finder • SSH/Plesk Uploaders • Laravel-Exploit
 
-#### 🔴 Bypass Webshell 2025+ & Cyber Tools
-Advanced WAF/firewall bypass, backdoor finder, shell uploaders (SSH/Plesk/Laravel).
+### 📬 Contact & Support
 <p align="center">
-  <img src="https://assets.esecurityplanet.com/uploads/2023/04/kali-msf-console-show-options.png" alt="Metasploit Exploit Demo" />
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200707054135/whatweb.png" alt="Web PenTesting Terminal" />
-  <img src="https://i.ytimg.com/vi/inslTy_wJvY/maxresdefault.jpg" alt="Kali Exploit Demo" />
-</p>
-🔗 [Bypass-Webshell](https://github.com/RizkyEvory/Bypass-Webshell) | [Backdoor-Finder](https://github.com/RizkyEvory/Backdoor-Finder) | [SSH Shell Uploader](https://github.com/RizkyEvory/ssh-shell-uploader)
-
-### 📫 Connect & Support
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:emailkamu@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@rizkyevory-2CA5E0?logo=telegram&logoColor=white)](https://t.me/rizkyevory)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/rizkyevory)
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RizkyEvory.RizkyEvory&left_color=black&right_color=red" alt="Visitors" />
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://t.me/rizkyevory"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://buymeacoffee.com/rizkyevory"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
 </p>
 
 <p align="center">
-  <i>"Code breaks systems. Systems make profits. Mastery wins."</i> 🚀🔒💰
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RizkyEvory.RizkyEvory&left_color=black&right_color=00FF00" />
+</p>
+
+<p align="center">
+  <i>Code in the shadows. Profit in the light. 🟢</i>
 </p>
