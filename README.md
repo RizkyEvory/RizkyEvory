@@ -46,16 +46,16 @@ Passionate developer specializing in advanced cybersecurity tools and high-perfo
 📈 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RizkyEvory&theme=dracula&no-frame=true&margin-w=15&row=2&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RizkyEvory&theme=dracula&no-frame=true&margin-w=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkyEvory&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkyEvory&theme=dracula&hide_border=true" alt="Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkyEvory&show_icons=true&theme=dracula&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=RizkyEvory&theme=dracula&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyEvory&layout=compact&theme=dracula&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyEvory&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
 </p>
 
 ---
@@ -106,3 +106,4 @@ If you find my projects useful, consider giving them a ⭐! Open to collaboratio
 ---
 
 ⚠️ **Disclaimer**: All cybersecurity tools are for authorized testing and educational purposes only. Trading EAs involve financial risk—use at your own discretion.
+
